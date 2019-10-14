@@ -1,0 +1,8 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.17.0",
+    "execa": "^2.1.0"
+  }
+}
