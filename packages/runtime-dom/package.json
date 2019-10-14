@@ -1,6 +1,6 @@
 {
   "name": "@vue/runtime-dom",
-  "version": "3.0.0-alpha.1",
+  "version": "0.0.1",
   "description": "@vue/runtime-dom",
   "main": "index.js",
   "author": "mactang",
